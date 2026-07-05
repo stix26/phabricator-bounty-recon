@@ -1,0 +1,29 @@
+=== EXPOSED FILES ===
+--- https://www.phabricator.com/.env ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/.git/config ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/dump.sql ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/admin ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/api ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/robots.txt ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/.htaccess ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/backup ---
+HTTP 200 | Size: 24754
+--- https://www.phabricator.com/wp-admin ---
+HTTP 200 | Size: 24754
+--- https://meta.phacility.com/.env ---
+HTTP 200 | Size: 10651
+--- https://meta.phacility.com/.git/config ---
+HTTP 200 | Size: 10651
+--- https://meta.phacility.com/dump.sql ---
+HTTP 200 | Size: 10651
+--- https://meta.phacility.com/admin ---
+HTTP 200 | Size: 10651
+--- https://meta.phacility.com/api ---
+HTTP 200 | Size: 10651
